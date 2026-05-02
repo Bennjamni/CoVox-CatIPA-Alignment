@@ -3,6 +3,7 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 Copyright (c) 2026 Bennjamni
 
 This work is based on the CoVox dataset by Camila Bruder and Nicolas Larrouy-Maestri.
+This repository follows the same license as the original CoVox dataset.
 
 This repository provides phonetic annotations derived from the CoVox dataset.
 
