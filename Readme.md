@@ -65,7 +65,7 @@ Todos os direitos sobre os áudios pertencem aos autores originais.
 
 ### 🔤 Padrão fonético
 
-- CatIPA desenvolvido por **Catmon**
+- CatIPA desenvolvido por [**Catmon**](https://github.com/CatMoun)
 
 ---
 
