@@ -29,6 +29,11 @@ O CatIPA é uma adaptação prática voltada para machine learning, com foco em:
 - Melhor alinhamento com modelos neurais  
 - Consistência entre idiomas  
 
+Atualmente, o padrão de fonemas globais são:
+| Silêncio | Respiraçãp | Parada Glotal | Aspiração |
+| :---: | :---: | :---: | :---: |
+| SP | AP | cl | exh |
+
 ---
 
 ## 📁 Conteúdo
