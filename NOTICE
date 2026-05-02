@@ -1,0 +1,14 @@
+This project contains phonetic annotations derived from the CoVox dataset.
+
+Original dataset:
+CoVox – A dataset of contrasting vocalizations
+Authors: Camila Bruder, Nicolas Larrouy-Maestri
+Institution: Max Planck Institute for Empirical Aesthetics
+
+Phonetic system:
+CatIPA, developed by Catmon
+
+This repository does not include the original audio files.
+Users must obtain CoVox data from the original source.
+
+This project is distributed under the CC BY-NC-SA 4.0 license.
