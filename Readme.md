@@ -37,6 +37,59 @@ Atualmente, o padrão de fonemas globais são:
 | :---: | :---: | :---: | :---: |
 | SP | AP | cl | exh |
 
+## Fonética
+
+ - AI SVS:
+
+VOGAIS e SEMI VOGAIS:
+
+CATIPA   | IPA | X-SAMPA
+--------- | ------ | ------
+a | a | a
+e | e | e
+i | i | i
+o | o | o
+u | u | u
+aa | ə | @
+ee | ɛ | E
+oo | ɔ | O
+A | ã | a~
+E | ẽ | e~
+I | ĩ | i~
+O | õ | o~
+U | ũ | u~
+y  | y | y
+w  | w | w
+
+CONSOANTES:
+
+CATIPA   | IPA | X-SAMPA
+--------- | ------ | ------
+b | b | b
+d | d | d
+dj | dʒ | dZ
+f | f | f
+g | g | g
+h | h | h
+j | ʒ | Z
+k | k | k
+l | l | l
+lh | ʎ | L
+m | m | m
+n | n | n
+nh | ɲ | J
+p | p | p
+r | r | r
+H | x | x
+rr | ř | r:
+R | ɹ | r\
+s | s | s
+t | t | t
+tch | tʃ | tS
+v | v | v
+x | ʃ | S
+z | z | z
+
 ---
 
 ## 📁 Conteúdo
