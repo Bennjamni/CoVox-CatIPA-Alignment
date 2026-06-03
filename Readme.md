@@ -12,10 +12,13 @@ Este repositório disponibiliza arquivos de label (como `.lab`) cuidadosamente p
 O objetivo deste projeto é enriquecer o dataset CoVox com **anotações fonéticas consistentes**, facilitando seu uso em pipelines de machine learning, especialmente em modelos de canto e voz.
 
 Todos os fonemas foram convertidos e padronizados utilizando o **CatIPA**, garantindo:
-
-- Consistência fonética  
+  
 - Compatibilidade com modelos modernos  
 - Facilidade de integração em pipelines existentes  
+
+**Atenção**
+
+Este dataset é gravado apenas com 3 a 4 músicas e não cobre toda fonética brasileira. 
 
 ---
 
@@ -48,7 +51,7 @@ Este repositório inclui:
 Este repositório **NÃO inclui os áudios originais**.  
 Os arquivos de áudio devem ser obtidos diretamente a partir do dataset CoVox original.
 Os Labeling são separados por cantores, logo, cada pasta tem um cantor.
-Os labelings foram alinhado apenas para os audios melódicos. Audios de fala direto ou indirreto **não foram** fonéticamente alinhados!
+Os labelings foram alinhado apenas para os audios melódicos. Audios de fala direto ou indireto **não foram** fonéticamente alinhados!
 
 ---
 
