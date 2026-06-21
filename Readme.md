@@ -202,4 +202,4 @@ Facilitar o acesso a dados foneticamente estruturados para:
 - [ ] S21
 - [ ] S22
 
-Atualmente, 5 minutos de dados.
+Atualmente, 10 minutos de dados.
