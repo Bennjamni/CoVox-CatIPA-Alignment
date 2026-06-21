@@ -180,7 +180,7 @@ Facilitar o acesso a dados foneticamente estruturados para:
 ## 🎙️ Progresso por cantor
 
 - [x] S01
-- [ ] S02
+- [x] S02
 - [ ] S03
 - [ ] S04
 - [ ] S05
